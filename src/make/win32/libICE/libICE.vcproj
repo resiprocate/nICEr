@@ -200,10 +200,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\util\mbslen.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\..\crypto\nr_crypto.c"
 				>
 			</File>
@@ -331,10 +327,6 @@
 			</File>
 			<File
 				RelativePath="..\..\..\util\ice_util.h"
-				>
-			</File>
-			<File
-				RelativePath="..\..\..\util\mbslen.h"
 				>
 			</File>
 			<File
